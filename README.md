@@ -1,5 +1,5 @@
 <a href="#" target="_blank">
-  <img src="svg/hieujoyce.svg" alt="Hieu Joyce" width="1200" height="750" />
+  <img src="./logo.gif" alt="DuyManhKMA" width="1200" height="750" />
 </a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
@@ -49,10 +49,10 @@
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
 <div align=center>
-  <a href="#" title="hieujoyce">
+  <a href="https://github.com/Manhha3010/" title="DuyManhKMA">
     <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hieujoyce&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </a>
-  <a href="#" title="hieujoyce">
+  <a href="https://github.com/Manhha3010/" title="DuyManhKMA">
     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=hieujoyce&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
 </div>
